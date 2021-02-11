@@ -112,6 +112,8 @@ namespace ZoomBreakoutRoomAllocator
                 previousRoomCount++;
             }
 
+            Console.WriteLine($"Calculating using {previousRoomCount} previous room allocations.");
+
             using StreamWriter file = new StreamWriter(Filename());
 
             List<List<int>> allocatedRooms = new List<List<int>>();
