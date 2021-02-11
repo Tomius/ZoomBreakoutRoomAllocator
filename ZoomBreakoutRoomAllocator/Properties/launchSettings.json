@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ZoomBreakoutRoomAllocator": {
+      "commandName": "Project",
+      "commandLineArgs": "Initial.txt"
+    }
+  }
+}
