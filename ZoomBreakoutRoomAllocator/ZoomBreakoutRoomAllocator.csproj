@@ -6,13 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Update="Initial.txt">
+    <None Update="Participants.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="Osztalynevsor.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="Rooms1.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
