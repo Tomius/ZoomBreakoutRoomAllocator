@@ -112,7 +112,7 @@ namespace ZoomBreakoutRoomAllocator
                 previousRoomCount++;
             }
 
-            Console.WriteLine($"Calculating using {previousRoomCount} previous room allocations.") 
+            Console.WriteLine($"Calculating using {previousRoomCount} previous room allocations.");
             Console.WriteLine("If correct, press enter - otherwise close the program and delete/add the files.");
             Console.ReadLine();
 
